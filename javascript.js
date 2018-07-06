@@ -1,12 +1,5 @@
 
 $( document ).ready(function() {
-	// All your code goes here
-	
-    $("#main_title").text("My Title!")
-});
-
-
-function recalc() {
   var months =Number($("#months").val()) + Number($("#years").val()) * 12;
   $("#water").text((months) * 124917);
   $("#forest").text((months) * 84);
@@ -15,3 +8,10 @@ function recalc() {
   $("#Co2").text(months * 273);
 
 }
+
+	// All your code goes here
+	
+    $("#main_title").text("My Title!")
+});
+
+
