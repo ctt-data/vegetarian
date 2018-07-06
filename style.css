@@ -24,3 +24,43 @@ p {
 body {
   background-color: #F5FAFA;
 }
+
+_____Calculator_____
+
+h3{
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
+h4{
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
+.row{
+  margin: 70px;
+  font-family: verdana;
+  text-align: center;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 10px 10px 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+  background:  lightgreen;
+  padding: 25px;
+  justify-content: space-evenly;
+}
+
+.stat{
+  float: left;
+  margin: 20px;
+  align: center;
+}
+.container-2{
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+}
+
+_____Calculator_end_____
