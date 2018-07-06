@@ -8,9 +8,4 @@ function recalc() {
   $("#Co2").text(months * 273);
 }
 
-	// All your code goes here
-	
-    $("#main_title").text("My Title!")
-});
-
 
