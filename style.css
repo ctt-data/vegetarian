@@ -15,14 +15,39 @@ h2 {
 
 
 
-p {
-  text-align: center;
+
+body {
+  background-color: #F5FAFA;
 }
 
 
 
-body {
-  background-color: #F5FAFA;
+.statement {
+  text-align: center;
+  color: black;
+  font-size: 20pt;
+  font-family: Roboto;
+  font-weight: bold;
+  padding: 0px 450px 0px 450px;
+  background-color: #33FF66;
+}
+
+
+
+.info {
+  padding: 0px 400px 0px 400px;
+  font-size: 10pt;
+  font-family: Roboto;
+}
+
+
+
+.math {
+  padding: 40px 500px 0px 500px;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 14pt;
 }
 
 _____Calculator_____
