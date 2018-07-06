@@ -1,3 +1,26 @@
 h1 {
-	color: #CCC;
+  text-align: center;
+  color: #33FF66;
+  padding: 50px 0px 0px 0px;
+  font-size: 40pt;
+}
+
+
+h2 {
+  text-align: center;
+  color: #33FF66;
+  padding: 0px 0px 50px 0px;
+  font-size: 20pt;
+}
+
+
+
+p {
+  text-align: center;
+}
+
+
+
+body {
+  background-color: #F5FAFA;
 }
