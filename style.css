@@ -3,9 +3,11 @@
   font-size: 25px;
   font-weight: normal;
   font-family: 'Lato', sans-serif;
-  margin: 350px 60px 150px 190px;}
+  margin: 350px 60px 150px 190px;
+}
 
-body {background-color: black;}
+body {background-color: black;
+}
 
 body, html {
     height: 100%;}
@@ -52,7 +54,8 @@ img {
   font-size: 24px;
   font-family: 'Lato', sans-serif;
   font-weight: normal;
-  margin: 50px 80px 20px 118px;}
+  margin: 50px 80px 20px 118px;
+}
 
 .text {
   color: white;
@@ -61,7 +64,8 @@ img {
   border: black 0px dotted;
   margin: 0px 80px 50px 100px;
   padding: 20px;
-  line-height: 20px;}
+  line-height: 20px;
+}
 
 .icon {
   font-family: "Lato";
@@ -74,7 +78,8 @@ img {
   color: white;
   font-family: 'Lato', sans-serif;
   font-weight: normal;
-  text-align: center;}
+  text-align: center;
+}
 
 .container {
   height: 450px;
@@ -83,14 +88,17 @@ img {
 }
 
 .transparency {
-  opacity: 0.5;}
+  opacity: 0.5;
+}
 
 .background {
   background-color: black;
-  margin: 30px 0px 0px 20px;}
+  margin: 30px 0px 0px 20px;
+}
 
 .caption {
-  text-color: rgb(255,255,255)}
+  text-color: rgb(255,255,255)
+}
 
 .statement {
   text-align: left;
