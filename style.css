@@ -15,7 +15,6 @@ body, html {
     height: 100%; 
 
     background-position: center;
-    filter: alpha(opacity=60);
     background-repeat: no-repeat;
     background-size: cover;
 }
