@@ -1,4 +1,3 @@
-
 function recalc() {
   var months =Number($("#months").val()) + Number($("#years").val()) * 12;
   $("#water").text((months) * 124917);
@@ -7,5 +6,3 @@ function recalc() {
   $("#grain").text(months * 543);
   $("#Co2").text(months * 273);
 }
-
-
