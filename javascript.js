@@ -6,3 +6,17 @@ function recalc() {
   $("#grain").text(months * 543);
   $("#Co2").text(months * 273);
 }
+
+function assignEvents(index) {
+  $("#card_"+index).click(function() {
+
+    $("#text_"+index).show();
+  });  
+};
+
+
+assignEvents(1);
+assignEvents(2);
+assignEvents(3);
+assignEvents(4);
+
