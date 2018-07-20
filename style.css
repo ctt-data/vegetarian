@@ -10,7 +10,7 @@ body {background-color: black;}
 body, html {
     height: 100%;}
 
-.bg {background-image: url("https://images.unsplash.com/photo-1484557985045-edf25e08da73?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f5f9b3de26b8a518a94c0fc1ba6aa31a&auto=format&fit=crop&w=1567&q=80");
+.bg {background-image: url("https://cdn.pixabay.com/photo/2017/01/16/19/54/ireland-1985088_1280.jpg");
 
     height: 100%; 
 
@@ -55,11 +55,12 @@ img {
 
 .text {
   color: white;
-  font-size: 16px;
-  border: white 1px dotted;
-  margin: 10px 100px 50px 100px;
-  padding: 50px;
-  line-height: 27px;}
+  font-size: 20px;
+  font-family: "Lato";
+  border: white 0px dotted;
+  margin: 0px 80px 50px 100px;
+  padding: 20px;
+  line-height: 20px;}
 
 
 .icon {
